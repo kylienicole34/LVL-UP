@@ -67,10 +67,32 @@
     height: auto;
     padding-left: 8px;
     padding-right: 8px;
+    padding-bottom: 60px;
+    padding-top: 40px;
 }
 .H6-header {
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-style: normal;
     font-size: 30px;
-    padding-left: 40px;
+    padding-left: 65px;
+    text-align: center;
+    letter-spacing: 2px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer {
+    background-image: url(arcade-footer.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 220px;
+    padding-bottom: 220px;
+}
+.animation {
+    width: 350px;
+    height: auto;
+    padding-bottom: 12px;
+    padding-left: 154px;
 }
